@@ -1,0 +1,22 @@
+{
+  "name": "@melotheo/jest-tracer",
+  "version": "1.0.0",
+  "description": "Tests statistcs generation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theomelo/jest-tracer.git"
+  },
+  "keywords": [
+    "flaky-tests"
+  ],
+  "author": "Theo Melo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/theomelo/jest-tracer/issues"
+  },
+  "homepage": "https://github.com/theomelo/jest-tracer#readme"
+}
